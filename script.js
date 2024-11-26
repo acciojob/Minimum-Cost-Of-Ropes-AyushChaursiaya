@@ -34,8 +34,8 @@ function calculateMinCost(ropeLengths) {
 // Example usage:
 try {
     alert(calculateMinCost([4, 2, 7, 6, 9])); // Output: 62
-    alert(calculateMinCost([8, 4, 6, 12]));  // Output: 58
-    alert(calculateMinCost([1, 2, 3, 4, 5])); // Output: 33
+    // alert(calculateMinCost([8, 4, 6, 12]));  // Output: 58
+    // alert(calculateMinCost([1, 2, 3, 4, 5])); // Output: 33
 } catch (e) {
     console.error(e.message);
 }
